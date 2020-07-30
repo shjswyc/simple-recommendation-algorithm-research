@@ -6,6 +6,8 @@ Mainly calculate the RMSE value obtained by different recommendation algorithms 
 
 ## Installation dependencies
 
+After installing python, use pip to easily download the package.
+
 ```
 python      ...(v3.6.8)
 numpy       ...(vx.x.x)
