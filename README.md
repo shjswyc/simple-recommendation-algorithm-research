@@ -1,21 +1,24 @@
 # simple-recommendation-algorithm-research
 
 This is a graduation project.  
-**Simple** implementation and research of some commonly used **recommendation algorithms**.  
+Simple implementation and research of some commonly used **recommendation algorithms**.  
+Mainly calculate the RMSE value obtained by different recommendation algorithms under a given data set.  
 
 ## Installation dependencies
 
-python      ...(v3.6.8)  
-numpy       ...(vx.x.x)  
-pandas      ...(vx.x.x)  
-jieba       ...(vx.x.x)  
-sklearn     ...(vx.x.x)  
-matplotlib  ...(vx.x.x)  
+```
+python      ...(v3.6.8)
+numpy       ...(vx.x.x)
+pandas      ...(vx.x.x)
+jieba       ...(vx.x.x)
+sklearn     ...(vx.x.x)
+matplotlib  ...(vx.x.x)
+```
 
 ## Data set description
 
-name: MovieLens1M  
-LINK：[https://grouplens.org/datasets/movielens/]  
+name: MovieLens 1M Dataset  
+LINK：https://grouplens.org/datasets/movielens/
 
 ## Project Tree
 
